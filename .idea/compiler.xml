@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="testPlugin" />
+        <module name="9diagTestPlugin" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testPlugin" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
