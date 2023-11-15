@@ -1,0 +1,4 @@
+name: testPlugin
+version: '1.0'
+main: diag.playmine.testplugin.TestPlugin
+api-version: '1.20'
