@@ -6,7 +6,7 @@
 
     <groupId>diag.playmine</groupId>
     <artifactId>9diagTestPlugin</artifactId>
-    <version>1.0</version>
+    <version>4.3.2</version>
     <packaging>jar</packaging>
 
     <name>testPlugin</name>
