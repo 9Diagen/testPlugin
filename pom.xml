@@ -67,7 +67,7 @@
         </repository>
         <repository>
             <id>github.com</id>
-            <url>https://github.com/9Diagen/testPlugin.git</url>
+            <url>https://github.com/9Diagen/9diagTestPlugin.git</url>
         </repository>
     </repositories>
 
